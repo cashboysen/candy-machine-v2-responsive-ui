@@ -470,8 +470,8 @@ const Home = (props: HomeProps) => {
                         </li>
                         <li><a href="http://discord.gg/golemguardians" target="_blank"
                                rel="noopener noreferrer">Discord</a></li>
-                        <li><a href="http://www.twitter.com/golemguardians" target="_blank"
-                               rel="noopener noreferrer">Twitter</a></li>
+                        <li><a href="http://" target="_blank"
+                               rel="noopener noreferrer">Menu 3</a></li>
                     </Menu>
                     <Wallet>
                         {wallet ?
